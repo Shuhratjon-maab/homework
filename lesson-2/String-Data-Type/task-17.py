@@ -1,5 +1,6 @@
 s = input()
-v = ""
+v = "aouie" # Ingliz tilida  r ham unli
 
 for i in v:
-    s.replace(v, '*')
+    s = s.replace(i, '*')
+print(s)
