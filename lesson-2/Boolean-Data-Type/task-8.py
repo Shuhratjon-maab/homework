@@ -1,0 +1,1 @@
+print('not ' * (not 10 <= int(input()) <= 20),'\bbetween 10 and 20')
